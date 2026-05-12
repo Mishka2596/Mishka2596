@@ -49,7 +49,7 @@ My goal is to combine HR expertise with technical analytics skills to build impa
 - HR Analytics Reporting
 - Data Cleaning Projects
 
-### Power BI Projects [Power BI Projects](https://github.com/Mishka2596/powerbi-portfolio)
+[Power BI Projects](https://github.com/Mishka2596/powerbi-portfolio)
 - Sales Performance Dashboard
 - Executive Reporting Dashboard
 
