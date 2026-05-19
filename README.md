@@ -44,7 +44,7 @@ My goal is to combine HR expertise with technical analytics skills to build impa
 
 ## Featured Projects
 
-### Excel Projects
+[Excel Projects](https://github.com/Mishka2596/Excel-Portfolio)
 - KPI Performance Tracker
 - Retail Dashboard
 
